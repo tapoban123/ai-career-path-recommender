@@ -1,0 +1,7 @@
+langchain
+langchain-core
+sqlalchemy
+fastapi
+pydantic
+apscheduler
+psycopg2-binary
